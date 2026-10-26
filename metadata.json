@@ -1,0 +1,8 @@
+{
+  "name": "Remix Petualangan Siber: Ekspedisi Perangkat Keras",
+  "description": "Multimedia Pembelajaran Interaktif (MPI) Informatika Kelas VII SMP topik Perangkat Keras Komputer dengan pendekatan Game-Based Learning dan Kurikulum Merdeka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
